@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Emmanuel</h1>
 <h3 align="left">
-    ```const Emmanuel = {
+    ```
+    javascript
+    const Emmanuel = {
     fullName: "Emmanuel sibomana",
     origin: "Rwanda",
     professionalStatus: "Student at Microverse",
