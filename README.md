@@ -24,9 +24,9 @@
     codingEnviroment: "Github",
     lookingForNewOpportunities: true    
 }
-```
 
 </h3>
+```
 
 - 👨‍💻 All of my projects are available at [https://sibomana123.github.io](https://sibomana123.github.io)
 
