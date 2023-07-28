@@ -1,28 +1,34 @@
 <h1 align="center">Hi 👋, I'm Emmanuel</h1>
 <h3 align="center">A passionate frontend developer from France
-const Emmanuel = {
-    fullName: "Emmanuel Sibomana",
+const sibomana123 = {
+    fullName: "Emmanuel sibomana",
     origin: "Rwanda",
-    current: "France"
+    familialStatus: "Married",
     professionalStatus: "Student at Microverse",
-    techLanguages:["Css","JavaScript","HTML"],
+    techLanguages:["Python","Css","JavaScript","HTML"],
     isWorkingNow: false,
     educationLevel: {
         uni:{
-           bachlorsDegree: "Information systems",
+           bachlorsDegree: "Distributed computer systems",
            isCompleted: true,
             },
         online:{
+            Coursera:{
+                       certificate:"Automation with Python",
+                       isCompleted: true,
+                     },
            Microverse:{
                      certificate:"Full stack web developement",
                      isCompleted: false,
                       },
                },
     },
-    socialMedias: ["LinkedIn","Instagram", "WhatsApp", "Twitter"],
+    passtime: ["Coding","create youtube content and video editing","Reading","Playing chess","Solving puzzles"],
+    socialMedias: ["LinkedIn","Telegram", "WhatsApp", "Twitter"],
     codingEnviroment: "Github",
     lookingForNewOpportunities: true    
 }
+
 
 </h3>
 
