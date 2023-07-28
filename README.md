@@ -1,4 +1,4 @@
-<h1 align="left"> ``#8CFFDB `Hi 👋, I'm Emmanuel</h1>
+<h1 align="left" color ="#8CFFDB">Hi 👋, I'm Emmanuel</h1>
 <h3 align="left">
 
 ## About me
