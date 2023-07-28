@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emmanuel</h1>
-<h3 align="left">A passionate frontend developer from France
-    
+<h3 align="left">
     const Emmanuel = {
     fullName: "Emmanuel sibomana",
     origin: "Rwanda",
@@ -27,7 +26,7 @@
 
 </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sibomana123&label=Profile%20views&color=0e75b6&style=flat" alt="sibomana123" /> </p>
+<p align="left"> <img src="https://avatars.githubusercontent.com/u/113997349?v=4" alt="sibomana123" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://sibomana123.github.io](https://sibomana123.github.io)
 
