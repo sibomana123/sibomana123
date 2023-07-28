@@ -1,32 +1,34 @@
 <h1 align="center">Hi 👋, I'm Emmanuel</h1>
 <h3 align="left">
-    ```
-    javascript
-    const Emmanuel = {
+## About me
+``` JavaScript
+const Emmanuel = {
     fullName: "Emmanuel sibomana",
     origin: "Rwanda",
+    current, "France",
     professionalStatus: "Student at Microverse",
-    techLanguages:["Css","JavaScript","HTML"],
+    techLanguages:["Python","Css","JavaScript","HTML"],
     isWorkingNow: false,
     educationLevel: {
         uni:{
            bachlorsDegree: "Information systems",
            isCompleted: true,
+            }
             },
         online:{
            Microverse:{
                      certificate:"Full stack web developement",
                      isCompleted: false,
                       },
-               },
     },
-    socialMedias: ["LinkedIn","Instragram", "WhatsApp", "Twitter"],
+    socialMedias: ["LinkedIn","Instagram", "WhatsApp", "Twitter"],
     codingEnviroment: "Github",
     lookingForNewOpportunities: true    
 }
+ ```
+
 
 </h3>
-```
 
 - 👨‍💻 All of my projects are available at [https://sibomana123.github.io](https://sibomana123.github.io)
 
