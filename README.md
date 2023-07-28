@@ -1,24 +1,29 @@
 **About Me**
-const sibomana123 = {
-    fullName: "Emmanuel Sibomana",
-    origin: "Rwanda",
-    current:"France",
+const Souad988 = {
+    fullName: "Souad El Mansouri",
+    origin: "Morocco",
+    familialStatus: "Married",
     professionalStatus: "Student at Microverse",
-    techLanguages:["Css","JavaScript","HTML"],
+    techLanguages:["Python","Css","JavaScript","HTML"],
     isWorkingNow: false,
     educationLevel: {
         uni:{
-           bachlorsDegree: "Information system",
+           bachlorsDegree: "Distributed computer systems",
            isCompleted: true,
             },
         online:{
+            Coursera:{
+                       certificate:"Automation with Python",
+                       isCompleted: true,
+                     },
            Microverse:{
                      certificate:"Full stack web developement",
                      isCompleted: false,
                       },
                },
     },
-    socialMedias: ["LinkedIn","Instagram", "WhatsApp", "Twitter"],
+    passtime: ["Coding","create youtube content and video editing","Reading","Playing chess","Solving puzzles"],
+    socialMedias: ["LinkedIn","Telegram", "WhatsApp", "Twitter"],
     codingEnviroment: "Github",
     lookingForNewOpportunities: true    
 }
