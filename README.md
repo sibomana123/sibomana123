@@ -24,9 +24,7 @@
 }
 ```
 
-
 </h3>
-<p align="left"> <img src="https://avatars.githubusercontent.com/u/113997349?v=4" alt="sibomana123" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://sibomana123.github.io](https://sibomana123.github.io)
 
