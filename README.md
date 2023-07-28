@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Emmanuel</h1>
-<h3 align="center">
+<h1 align="left"> ``#8CFFDB `Hi 👋, I'm Emmanuel</h1>
+<h3 align="left">
 
 ## About me
 
