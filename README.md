@@ -2,7 +2,6 @@
 <h3 align="center">A passionate frontend developer from France
     
     ```
-    javascript
 const Emmanuel = {
     fullName: "Emmanuel sibomana",
     origin: "Rwanda",
@@ -32,7 +31,7 @@ const Emmanuel = {
     lookingForNewOpportunities: true    
 }
 
-```
+
 
 </h3>
 
