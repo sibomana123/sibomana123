@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emmanuel</h1>
 <h3 align="left">A passionate frontend developer from France
     
-    `const Emmanuel = {
+    const Emmanuel = {
     fullName: "Emmanuel sibomana",
     origin: "Rwanda",
     professionalStatus: "Student at Microverse",
