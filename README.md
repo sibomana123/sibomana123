@@ -1,30 +1,37 @@
-<h1 align="center">
-    const Emmanuel = {
-    fullName: "Emmanuel Sibomana",
-    origin: "Rwanda",
-    current: "France"
+<h1 align="center">Hi 👋, I'm Emmanuel</h1>
+<h3 align="center">A passionate frontend developer from France
+const Souad988 = {
+    fullName: "Souad El Mansouri",
+    origin: "Morocco",
+    familialStatus: "Married",
     professionalStatus: "Student at Microverse",
-    techLanguages:["Css","JavaScript","HTML"],
+    techLanguages:["Python","Css","JavaScript","HTML"],
     isWorkingNow: false,
     educationLevel: {
         uni:{
-           bachlorsDegree: "Information systems",
+           bachlorsDegree: "Distributed computer systems",
            isCompleted: true,
             },
         online:{
+            Coursera:{
+                       certificate:"Automation with Python",
+                       isCompleted: true,
+                     },
            Microverse:{
                      certificate:"Full stack web developement",
                      isCompleted: false,
                       },
                },
     },
-    socialMedias: ["LinkedIn","Instagram", "WhatsApp", "Twitter"],
+    passtime: ["Coding","create youtube content and video editing","Reading","Playing chess","Solving puzzles"],
+    socialMedias: ["LinkedIn","Telegram", "WhatsApp", "Twitter"],
     codingEnviroment: "Github",
     lookingForNewOpportunities: true    
 }
+
 </h3>
 
-<p align="left"> <img src="https://avatars.githubusercontent.com/u/113997349?v=4" alt="sibomana123" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sibomana123&label=Profile%20views&color=0e75b6&style=flat" alt="sibomana123" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://sibomana123.github.io](https://sibomana123.github.io)
 
