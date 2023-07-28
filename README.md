@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emmanuel</h1>
 <h3 align="left">
-    `const Emmanuel = {
+    ```
+    const Emmanuel = {
     fullName: "Emmanuel sibomana",
     origin: "Rwanda",
     professionalStatus: "Student at Microverse",
@@ -21,7 +22,8 @@
     socialMedias: ["LinkedIn","Instragram", "WhatsApp", "Twitter"],
     codingEnviroment: "Github",
     lookingForNewOpportunities: true    
-}`
+}
+```
 
 
 </h3>
