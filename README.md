@@ -1,4 +1,7 @@
 **About Me**
+
+
+```
 const Souad988 = {
     fullName: "Souad El Mansouri",
     origin: "Morocco",
@@ -27,6 +30,8 @@ const Souad988 = {
     codingEnviroment: "Github",
     lookingForNewOpportunities: true    
 }
+```
+
 
 
 <h3 align="center">A passionate frontend developer from India</h3>
