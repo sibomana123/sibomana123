@@ -1,30 +1,25 @@
 <h1 align="center">Hi 👋, I'm Emmanuel</h1>
 <h3 align="center">A passionate frontend developer from France
-const Souad988 = {
-    fullName: "Souad El Mansouri",
-    origin: "Morocco",
-    familialStatus: "Married",
+const Emmanuel = {
+    fullName: "Emmanuel Sibomana",
+    origin: "Rwanda",
+    current: "France"
     professionalStatus: "Student at Microverse",
-    techLanguages:["Python","Css","JavaScript","HTML"],
+    techLanguages:["Css","JavaScript","HTML"],
     isWorkingNow: false,
     educationLevel: {
         uni:{
-           bachlorsDegree: "Distributed computer systems",
+           bachlorsDegree: "Information systems",
            isCompleted: true,
             },
         online:{
-            Coursera:{
-                       certificate:"Automation with Python",
-                       isCompleted: true,
-                     },
            Microverse:{
                      certificate:"Full stack web developement",
                      isCompleted: false,
                       },
                },
     },
-    passtime: ["Coding","create youtube content and video editing","Reading","Playing chess","Solving puzzles"],
-    socialMedias: ["LinkedIn","Telegram", "WhatsApp", "Twitter"],
+    socialMedias: ["LinkedIn","Instagram", "WhatsApp", "Twitter"],
     codingEnviroment: "Github",
     lookingForNewOpportunities: true    
 }
