@@ -22,7 +22,7 @@
     socialMedias: ["LinkedIn","Instragram", "WhatsApp", "Twitter"],
     codingEnviroment: "Github",
     lookingForNewOpportunities: true    
-}`
+}
 
 
 </h3>
