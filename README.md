@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Emmanuel</h1>
 <h3 align="left">
-    const Emmanuel = {
+    `const Emmanuel = {
     fullName: "Emmanuel sibomana",
     origin: "Rwanda",
     professionalStatus: "Student at Microverse",
@@ -21,11 +21,11 @@
     socialMedias: ["LinkedIn","Instragram", "WhatsApp", "Twitter"],
     codingEnviroment: "Github",
     lookingForNewOpportunities: true    
-}
+}`
 
 
 </h3>
-
+<p align="left"> <img src="https://avatars.githubusercontent.com/u/113997349?v=4" alt="sibomana123" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://sibomana123.github.io](https://sibomana123.github.io)
 
