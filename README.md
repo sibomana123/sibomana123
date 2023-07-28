@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emmanuel</h1>
 <h3 align="center">A passionate frontend developer from France
     
-    ```
-const Emmanuel = {
+    ```const Emmanuel = {
     fullName: "Emmanuel sibomana",
     origin: "Rwanda",
     familialStatus: "Married",
